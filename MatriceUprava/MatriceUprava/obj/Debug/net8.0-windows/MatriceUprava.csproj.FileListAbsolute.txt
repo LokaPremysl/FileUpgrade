@@ -1,0 +1,16 @@
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\bin\Debug\net8.0-windows\MatriceUprava.exe
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\bin\Debug\net8.0-windows\MatriceUprava.deps.json
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\bin\Debug\net8.0-windows\MatriceUprava.runtimeconfig.json
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\bin\Debug\net8.0-windows\MatriceUprava.dll
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\bin\Debug\net8.0-windows\MatriceUprava.pdb
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\obj\Debug\net8.0-windows\MatriceUprava.Form1.resources
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\obj\Debug\net8.0-windows\MatriceUprava.csproj.GenerateResource.cache
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\obj\Debug\net8.0-windows\MatriceUprava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\obj\Debug\net8.0-windows\MatriceUprava.AssemblyInfoInputs.cache
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\obj\Debug\net8.0-windows\MatriceUprava.AssemblyInfo.cs
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\obj\Debug\net8.0-windows\MatriceUprava.csproj.CoreCompileInputs.cache
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\obj\Debug\net8.0-windows\MatriceUprava.dll
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\obj\Debug\net8.0-windows\refint\MatriceUprava.dll
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\obj\Debug\net8.0-windows\MatriceUprava.pdb
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\obj\Debug\net8.0-windows\MatriceUprava.genruntimeconfig.cache
+C:\Users\lokapremysl\source\repos\MatriceUprava\MatriceUprava\obj\Debug\net8.0-windows\ref\MatriceUprava.dll
